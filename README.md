@@ -1,4 +1,190 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Swap Genius
+
+Swap Genius is a skill-swapping platform built with [Next.js](https://nextjs.org), [React](https://react.dev), and [Tailwind CSS](https://tailwindcss.com). Users can showcase their skills, search for others, and request skill swaps.
+
+## Features
+
+- User profiles with skills and bios
+- Skill cards and requests
+- Skill search and explore pages
+- Responsive UI with Tailwind CSS
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18+ recommended)
+- npm
+
+### Installation
+
+```bash
+npm install
+```
+
+### Development
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Build for Production
+
+```bash
+npm run build
+npm start
+```
+
+## Project Structure
+
+- `components/` – React components (SkillCard, SkillRequest, Navbar, etc.)
+- `context/` – React context for global state
+- `pages/` – Next.js pages and API routes
+- `public/` – Static assets
+- `styles/` – Global and page-specific styles
+
+## Scripts
+
+- `npm run dev` – Start development server
+- `npm run build` – Build for production
+- `npm start` – Start production server
+- `npm run lint` – Run ESLint
+
+## License
+
+MIT
+
+---
+
+Made with ❤️ using Next.js and Tailwind CSS.# Swap Genius
+
+Swap Genius is a skill-swapping platform built with [Next.js](https://nextjs.org), [React](https://react.dev), and [Tailwind CSS](https://tailwindcss.com). Users can showcase their skills, search for others, and request skill swaps.
+
+## Features
+
+- User profiles with skills and bios
+- Skill cards and requests
+- Skill search and explore pages
+- Responsive UI with Tailwind CSS
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18+ recommended)
+- npm
+
+### Installation
+
+```bash
+npm install
+```
+
+### Development
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Build for Production
+
+```bash
+npm run build
+npm start
+```
+
+## Project Structure
+
+- `components/` – React components (SkillCard, SkillRequest, Navbar, etc.)
+- `context/` – React context for global state
+- `pages/` – Next.js pages and API routes
+- `public/` – Static assets
+- `styles/` – Global and page-specific styles
+
+## Scripts
+
+- `npm run dev` – Start development server
+- `npm run build` – Build for production
+- `npm start` – Start production server
+- `npm run lint` – Run ESLint
+
+## License
+
+MIT
+
+---
+
+Made with ❤️ using Next.js and Tailwind CSS.# Swap Genius
+
+Swap Genius is a skill-swapping platform built with [Next.js](https://nextjs.org), [React](https://react.dev), and [Tailwind CSS](https://tailwindcss.com). Users can showcase their skills, search for others, and request skill swaps.
+
+## Features
+
+- User profiles with skills and bios
+- Skill cards and requests
+- Skill search and explore pages
+- Responsive UI with Tailwind CSS
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18+ recommended)
+- npm
+
+### Installation
+
+```bash
+npm install
+```
+
+### Development
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Build for Production
+
+```bash
+npm run build
+npm start
+```
+
+## Project Structure
+
+- `components/` – React components (SkillCard, SkillRequest, Navbar, etc.)
+- `context/` – React context for global state
+- `pages/` – Next.js pages and API routes
+- `public/` – Static assets
+- `styles/` – Global and page-specific styles
+
+## Scripts
+
+- `npm run dev` – Start development server
+- `npm run build` – Build for production
+- `npm start` – Start production server
+- `npm run lint` – Run ESLint
+
+## License
+
+MIT
+
+---
+
+Made with ❤️ using Next.js and Tailwind CSS.This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
 
